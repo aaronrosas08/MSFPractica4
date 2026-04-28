@@ -42,6 +42,8 @@ El sistema endócrino regula funciones fisiológicas mediante la liberación de 
 4. La respuesta del órgano diana (como la glándula suprarrenal o la tiroides) se modela mediante una segunda rama con una resistencia **R2** y una inductancia **L**, representando la resistencia al cambio hormonal en el tejido y la inercia de respuesta biológica, respectivamente.
 5. Se identifican los siguientes dos flujos en el sistema: el flujo de la secreción hormonal **Fe(t)** y el flujo de la absorción hormonal en el órgano diana **Fs(t)**.
 
+*Palabras clave:* Sistema endócrino; Secreción hormonal; Órgano diana; Homeostasis; Circuito RLC.
+
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB \[.mlx].
